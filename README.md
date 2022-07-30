@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![gabriel55_](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fgabriel55_)](https://atcoder.jp/users/gabriel55_)
+[![gabriel55_](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fgabriel55_)](https://codeforces.com/profile/gabriel55_)
 
 <!--
 **gabriel-55/gabriel-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
